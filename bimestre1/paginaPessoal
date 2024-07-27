@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <title>Diógenes Santiago</title>
+</head>
+
+<body>
+    <header>
+        <h1>Diógenes Santiago</h1>
+        <img src="https://i.imgur.com/7Ax8jWl.jpeg"  style="width:200px;height:auto;">
+        <nav>
+
+            <ul>
+    
+                  <li><a href="#sobre">Sobre Mim</a></li>
+                  <li><a href="#curiosidades">Curiosidades</a></li>
+                  <li><a href="#educacao">Histórico Escolar</a></li>
+                  <li><a href="#causo">Causo</a></li>
+                  <li><a href="#habilidades">Habilidades</a></li>
+                  <li><a href="#contato">Contatos</a></li>
+    
+            </ul>
+    </header>
+    <section id="sobre">
+        <h2>Sobre Mim</h2>
+        <p>
+            Meu nome é Diógenes Santiago Cavalcante de Oliveira Júnior. Moro no bairro Planalto, Ceará-Mirim. Gosto de ouvir música e jogar jogos digitais, que também são meus hobbies. Eu almejo um dia ser alguém de muito sucesso.
+        </p>
+    </section>
+
+    <section id="curiosidades">
+        <h2>Curiosidades</h2>
+        <ul>
+            <li>Breekkan é o meu nome virtual, meu nickname. Utilizo-o em todas as plataformas.</li>
+            <li>Faço aniversário no mesmo mês que minha mãe e irmão.</li>
+            <li>Meus sobrenomes têm origem Português, Espanhol e Italiano.</li>
+            <li>Possuo o mesmo nome que um grande filósofo da Grécia Antiga.</li>
+            <li>Tenho dificuldade para prestar atenção no que as pessoas falam, e por isso, opto por estudar em casa.</li>
+        </ul>
+    </section>
+
+    <section id="educacao">
+        <h2>Educação</h2>
+    <table border="1">
+        <tr>
+            <td>Instituição</td>
+            <td>Série</td>
+            <td>Curso</td>
+        </tr>
+        <tr>
+            <td>Sistema de Ensino ABC</td>
+            <td>4° - 9°</td>
+            <td>Fundamental I e II</td>
+        </tr>
+        <tr>
+            <td>IFRN</td>
+            <td>Ensino Médio</td>
+            <td>Informática</td>
+        </tr>
+    </table>
+</section>
+
+    <section id="causo">
+        <h2>Causo Engraçado</h2>
+        <p>
+            No meu ensino fundamental II, acredito que no auge da minha rebeldia como pré-adolescente, um dia tive de experimentar algumas camisetas para um evento que aconteceria na minha escola. Nesse dia, para poupar tempo os alunos saíam em duplas para ir experimentar as camisetas na sala da coordenação. Por ironia do destino, acabei fazendo dupla com meu melhor amigo. Era uma aula de português, com um professor que tínhamos todos uma certa afinidade. Ele era um cara bem amigo de toda a turma, o que nos permitia algumas vezes tirarmos algumas brincadeiras com ele. Esse meu amigo que citei, era mais chegado com ele ainda, e na hora que íamos sair em direção a coordenação, o mesmo fez um gesto obsceno com a mão para o professor e ficou ali parado. Após cerca de 2-3 segundos o professor virou e o pegou no flagra. Imediatamente corremos para a sala da coordenação. Testamos as medidas das camisetas e era a hora de voltar. Ficamos muito apreensivos quanto a isso, pensamos logo em não retornar a sala de aula. Após um tempo, decidimos que era melhor voltar e para nossa sorte, o professor havia esquecido ou apenas ignorado o que aconteceu, até hoje rio desse acontecimento. Contudo, não faria nada do que foi citado acima novamente hoje em dia, mas talvez eu fizesse se tivesse a oportunidade de voltar no tempo.
+        </p>
+    </section>
+
+    <section id="habilidades">
+        <h2>Habilidades</h2>
+        <p>
+            Me considero bom com leituras e escrita em inglês.
+        </p>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <ul>
+            <li>Email: <a href="mailto:diogenesjunior2006@gmail.com">diogenesjunior2006@gmail.com</a></li>
+            <li>GitHub: <a href="https://github.com/Breekkan" target="_blank">github.com/Breekkan</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p> Diógenes Santiago.</p>
+    </footer>
+</body>
+</html>
