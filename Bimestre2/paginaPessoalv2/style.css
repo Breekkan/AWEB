@@ -1,7 +1,7 @@
 /* cores da pag */
 :root {
-    --cor-principal: #4D1C22;  /* azul */ 
-    --cor-secundaria: #0460D9;  /* vermelho-vinho */
+    --cor-principal: #4D1C22;  /* vermelho-vinho */ 
+    --cor-secundaria: #0460D9;  /* azul */
     --cor-destaque: #BF8A6B;    /* bege */
     --cor-texto: #333; /* cinza bem escuro */
 }
